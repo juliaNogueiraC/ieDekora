@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/*.219_72 { 
+	overflow:hidden;
+}
+*/
+.e219_72 { 
+	background-color:rgba(239.00000095367432, 167.00000524520874, 187.00000405311584, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e219_79 { 
+	color:rgba(0, 0, 0, 1);
+	width:248px;
+	height:29px;
+	position:absolute;
+	left:255px;
+	top:246px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e219_92 { 
+	color:rgba(0, 0, 0, 1);
+	width:248px;
+	height:143px;
+	position:absolute;
+	left:255px;
+	top:246px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e219_81 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:394px;
+	height:73px;
+	position:absolute;
+	left:183px;
+	top:366px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_88 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:394px;
+	height:73px;
+	position:absolute;
+	left:183px;
+	top:477px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_89 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:394px;
+	height:72px;
+	position:absolute;
+	left:183px;
+	top:588px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_91 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:197px;
+	height:54px;
+	position:absolute;
+	left:270px;
+	top:687px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_80 { 
+	/*box-shadow:8px 10px 4px rgba(0, 0, 0, 0.25);*/
+	width:608px;
+	height:512px;
+	position:absolute;
+	left:679px;
+	top:269px;
+	background-image:url('./_images/cool_kids_fresh_air.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e219_93 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:32px;
+	position:absolute;
+	left:206px;
+	top:386px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e219_94 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:31px;
+	position:absolute;
+	left:206px;
+	top:497px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e219_95 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:31px;
+	position:absolute;
+	left:206px;
+	top:608px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e219_98 { 
+	color:rgba(0, 0, 0, 1);
+	width:219px;
+	height:14px;
+	position:absolute;
+	left:316px;
+	top:698px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}

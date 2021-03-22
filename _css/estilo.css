@@ -1,13 +1,135 @@
 
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,700&display=swap');
-body{
+
+
+.e219_2 { 
+	background-color:rgba(239.00000095367432, 167.00000524520874, 187.00000405311584, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e219_26 { 
+	/* box-shadow:4px 8px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(0, 0, 0, 1);
+	width:376px;
+	height:273px;
+	position:absolute;
+	left:875px;
+	top:215px;
+	font-family:Bell MT;
+	text-align:left;
+	font-size:80px;
+	letter-spacing:0; */
+	width:376px;
+	height:273px;
+	position:absolute;
+	left:875px;
+	top:215px;
+	
+	font-family: Bell MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 80px;
+	line-height: 89px;
+	
+	color: #000000;
+	
+	text-shadow: 4px 8px 4px rgba(0, 0, 0, 0.25);
+	
+
+
+}
+.e219_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:304px;
+	height:51px;
+	position:absolute;
+	left:875px;
+	top:526px;
+	font-family:Nunito Sans;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e226_0 { 
+	width:237px;
+	height:56px;
+	position:absolute;
+	left:906px;
+	top:654px;
+}
+.e219_28 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:237px;
+	height:56px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_29 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:237px;
+	height:58px;
+	position:absolute;
+	left:906px;
+	top:730px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e219_49 { 
+	color:rgba(0, 0, 0, 1);
+	width:112px;
+	height:22px;
+	position:absolute;
+	left:984px;
+	top:660px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e219_31 { 
+	/*box-shadow:8px 10px 4px rgba(0, 0, 0, 0.25);*/
+	opacity:0.800000011920929;
+	width:669px;
+	height:583px;
+	position:absolute;
+	left:151px;
+	top:196px;
+	background-image:url('./_images/cool_kids_staying_home.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e219_50 { 
+	color:rgba(0, 0, 0, 1);
+	width:172px;
+	height:22px;
+	position:absolute;
+	left:938px;
+	top:739px;
+	font-family:Ubuntu;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+/* body{
 background-color:#EFA7BB;
     /* Vamos decorar sua casa */
 
-}
+
+/********************************
 h3{
-/* ieDekora é uma plataforma para inspirar os amantes de design de interiores. */
+/* ieDekora é uma plataforma para inspirar os amantes de design de interiores. 
  
 position: absolute;
 width: 304px;
@@ -45,7 +167,7 @@ text-shadow: 4px 8px 4px rgba(0, 0, 0, 0.25);
 
 #imgpos {
 
-    /* Cool Kids Staying Home */
+    /* Cool Kids Staying Home 
 
 position: absolute;
 width: 669px;
@@ -59,9 +181,9 @@ filter: drop-shadow(8px 10px 4px rgba(0, 0, 0, 0.25));
 
 }
 
-/* Rectangle 7 */
+/* Rectangle 7 
 h2{
-    /* Login */
+    /* Login 
 
 position:relative;  
 width: 112px;
@@ -76,7 +198,7 @@ font-size: 30px;
 line-height: 34px;
 
 color: #000000;
- /* o retangulo */
+ /* o retangulo 
  
  position: absolute;
  width: 237px;
@@ -89,3 +211,66 @@ color: #000000;
  border-radius: 30px;
  
 }
+*/
+
+
+/*
+* Cadastre-se 
+
+position: absolute;
+width: 172px;
+height: 22px;
+left: 938px;
+top: 739px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 34px;
+
+color: #000000;
+}
+
+
+position: absolute;
+width: 237px;
+height: 56px;
+left: 906px;
+top: 654px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Rectangle 8 
+
+position: absolute;
+width: 237px;
+height: 58px;
+left: 906px;
+top: 730px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Login 
+
+position: absolute;
+width: 112px;
+height: 22px;
+left: 984px;
+top: 660px;
+
+font-family: Ubuntu;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 34px;
+
+color: #000000;
+
+*/
