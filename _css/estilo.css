@@ -5,7 +5,7 @@
 
 .e219_2 { 
 	background-color:rgba(239.00000095367432, 167.00000524520874, 187.00000405311584, 1);
-	width:1440px;
+	width:2440px;
 	height:1024px;
 	position:absolute;
 }
@@ -24,7 +24,7 @@
 	width:376px;
 	height:273px;
 	position:absolute;
-	left:875px;
+	left:1150px;
 	top:215px;
 	
 	font-family: Bell MT;
@@ -42,10 +42,10 @@
 }
 .e219_27 { 
 	color:rgba(0, 0, 0, 1);
-	width:304px;
+	width:1904px;
 	height:51px;
 	position:absolute;
-	left:875px;
+	left:975px;
 	top:526px;
 	font-family:Nunito Sans;
 	text-align:left;
@@ -56,7 +56,7 @@
 	width:237px;
 	height:56px;
 	position:absolute;
-	left:906px;
+	left:1156px;
 	top:654px;
 }
 .e219_28 { 
@@ -78,7 +78,7 @@
 	width:237px;
 	height:58px;
 	position:absolute;
-	left:906px;
+	left:1156px;
 	top:730px;
 	border-top-left-radius:30px;
 	border-top-right-radius:30px;
@@ -90,7 +90,7 @@
 	width:112px;
 	height:22px;
 	position:absolute;
-	left:984px;
+	left:1225px;
 	top:660px;
 	font-family:Ubuntu;
 	text-align:left;
@@ -114,7 +114,7 @@
 	width:172px;
 	height:22px;
 	position:absolute;
-	left:938px;
+	left:1200px;
 	top:739px;
 	font-family:Ubuntu;
 	text-align:left;
